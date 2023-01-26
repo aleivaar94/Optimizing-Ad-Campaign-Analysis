@@ -1,0 +1,390 @@
+,keyword,source,bid_type,bid_strength,current_cpc_bid,suggested_bid,spend,attributed_sales,attributed_quantities,roas,impressions,clicks,ctr,average_cpc,ntb_attributed_sales,percent_ntb_attributed_sales
+0,almond cheese,automated,default,green,1.24,1.24,0.2,0,0,0,2,1,50,0.2,0,0
+1,artichokes fresh,automated,default,unknown,1.24,,0.2,0,0,0,58,1,1.724137931,0.2,0,0
+2,baba ganouj,manual,override,unknown,2.55,,0,0,0,0,5,0,0,0,0,0
+3,babaganoush,manual,override,unknown,2.55,,0,0,0,0,3,0,0,0,0,0
+4,baba ganoush,manual,override,unknown,2.55,,0,0,0,0,50,0,0,0,0,0
+5,baba ghanoush dip,automated,default,green,1.24,1.17,0.86,0,0,0,40,1,2.5,0.86,0,0
+6,becel margarine olive,automated,default,unknown,1.24,,1.33,0,0,0,3,1,33.33333333,1.33,0,0
+7,best veggie dip,automated,default,unknown,1.24,,1.03,10.95,1,10.63106796,1,1,100,1.03,10.94999962,99.99999649
+8,butter,automated,default,yellow,1.24,2.05,2.22,10.95,1,4.932432432,232,1,0.431034483,2.22,10.94999962,99.99999649
+9,cashew cheese,automated,override,yellow,4.9,4.98,8.78,29.564999,2.8333334,3.367311959,84,7,8.333333333,1.254285714,20.43999949,69.13580308
+10,cashew cream,automated,default,unknown,1.24,,0.23,0,0,0,4,1,25,0.23,0,0
+11,cashew dip,manual,override,green,2.55,1.42,6.64,34.845,3.5,5.247740964,50,8,16,0.83,0,0
+12,cheese,automated,default,unknown,1.24,,0.21,0,0,0,235,1,0.425531915,0.21,0,0
+13,cheese spread,automated,default,yellow,1.24,1.61,1,10.95,1,10.95,49,1,2.040816327,1,10.94999962,99.99999649
+14,chip dip,automated,default,yellow,1.24,1.45,3.31,0,0,0,204,3,1.470588235,1.103333333,0,0
+15,chive cream cheese,manual,override,green,2.55,1.4,1.05,0,0,0,7,1,14.28571429,1.05,0,0
+16,cream cheese,manual,override,green,2.55,1.75,48.82,252.26,23.5,5.167144613,6930,53,0.764790765,0.921132075,224.8849951,89.14809921
+17,cream cheese cashew,automated,default,unknown,1.24,,0.46,0,0,0,1,1,100,0.46,0,0
+18,creame cheese,automated,default,unknown,1.24,,0.68,0,0,0,7,1,14.28571429,0.68,0,0
+19,dairy free,manual,override,green,2.55,2.15,7.21,21.9,2,3.037447989,291,3,1.030927835,2.403333333,10.94999962,49.99999825
+20,dairy free butter,automated,default,yellow,1.24,1.48,1.45,10.95,1,7.551724138,10,1,10,1.45,10.94999962,99.99999649
+21,dairy free cheese,automated,default,unknown,1.24,,1.44,0,0,0,8,1,12.5,1.44,0,0
+22,dairy free cream cheese,manual,override,green,2.55,1.38,1.56,8.99,1,5.762820513,67,2,2.985074627,0.78,8.990000128,100.0000014
+23,dairy free dip,manual,override,green,2.55,1.7,0,0,0,0,13,0,0,0,0,0
+24,dairy free spinach dip,automated,default,unknown,1.24,,1.18,10.95,1,9.279661017,2,1,50,1.18,10.94999962,99.99999649
+25,daiya dip,automated,default,unknown,1.24,,0.85,0,0,0,1,1,100,0.85,0,0
+26,deli,automated,default,green,1.24,1.15,1.21,0,0,0,381,2,0.524934383,0.605,0,0
+27,dill dip,automated,default,yellow,1.24,1.73,1.12,0,0,0,15,1,6.666666667,1.12,0,0
+28,dip,manual,override,green,2.55,2.48,19.85,68.365,6.5,3.444080605,1263,13,1.029295329,1.526923077,62.86999859,91.96225933
+29,dips,manual,override,green,2.55,1.97,11.95,29.8900002,3,2.501255247,370,8,2.162162162,1.49375,29.88999936,99.99999719
+30,fig spread,automated,default,unknown,1.24,,0.2,0,0,0,7,1,14.28571429,0.2,0,0
+31,french onion dip,manual,override,yellow,2.55,2.88,0,0,0,0,22,0,0,0,0,0
+32,garlic butter,automated,default,green,1.24,0.83,0.98,0,0,0,123,1,0.81300813,0.98,0,0
+33,goats cheese,automated,override,yellow,1.89,3.01,0.91,0,0,0,16,1,6.25,0.91,0,0
+34,guacamole,manual,override,green,2.55,0.87,0,0,0,0,163,0,0,0,0,0
+35,healthy,automated,override,yellow,1.03,1.12,1.28,0,0,0,115,1,0.869565217,1.28,0,0
+36,hella good chip dip,automated,default,unknown,1.24,,1.11,10.95,1,9.864864865,105,1,0.952380952,1.11,10.94999962,99.99999649
+37,helluva good,manual,override,unknown,2.55,,0,0,0,0,1,0,0,0,0,0
+38,helluva good dip,manual,override,unknown,2.55,,0,0,0,0,102,0,0,0,0,0
+39,herb garlic cream cheese,automated,default,green,1.24,0.46,2.5,10.95,1,4.38,102,3,2.941176471,0.833333333,10.94999962,99.99999649
+40,hummus,manual,override,green,2.55,1.04,9.72,51.7900002,5,5.328189321,911,13,1.427003293,0.747692308,51.78999859,99.9999969
+41,hummus dip,manual,override,green,2.55,1.62,0.6,0,0,0,244,2,0.819672131,0.3,0,0
+42,jalepeno cheese,automated,default,unknown,1.24,,0.2,0,0,0,13,1,7.692307692,0.2,0,0
+43,lactose cream cheese,automated,default,unknown,1.24,,0.69,0,0,0,5,1,20,0.69,0,0
+44,lactose free,manual,override,green,2.55,1.31,2.79,8.99,1,3.222222222,125,2,1.6,1.395,0,0
+45,lactose free cream cheese,automated,default,green,1.24,0.94,0.94,0,0,0,37,1,2.702702703,0.94,0,0
+46,light cream cheese,manual,override,green,2.55,1.62,0,0,0,0,102,0,0,0,0,0
+47,litehouse,manual,override,green,2.55,2.43,0,0,0,0,19,0,0,0,0,0
+48,lite veggie dip,automated,default,unknown,1.24,,0.2,21.9,2,109.5,1,1,100,0.2,21.89999923,99.99999649
+49,low fat cream cheese,automated,default,green,1.24,0.57,0.73,10.95,1,15,9,1,11.11111111,0.73,10.94999962,99.99999649
+50,marzetti,manual,override,green,2.55,1.89,0,0,0,0,13,0,0,0,0,0
+51,melt,automated,default,unknown,1.24,,0.41,0,0,0,3,1,33.33333333,0.41,0,0
+52,mexican dip,automated,default,green,1.24,1.06,1.07,0,0,0,7,1,14.28571429,1.07,0,0
+53,mini artichoke,automated,default,unknown,1.24,,0.2,0,0,0,1,1,100,0.2,0,0
+54,mozzarella cheese,automated,default,unknown,1.24,,2.54,10.95,1,4.311023622,33,1,3.03030303,2.54,0,0
+55,nacho cheese dip,manual,override,green,2.55,1.74,1.98,10.95,1,5.53030303,68,1,1.470588235,1.98,10.94999962,99.99999649
+56,nacho dip,manual,override,green,2.55,1.54,0,0,0,0,135,0,0,0,0,0
+57,navho dip,automated,default,unknown,1.24,,0.2,10.95,1,54.75,0,1,100,0.2,10.94999962,99.99999649
+58,non dairy,manual,override,green,2.55,1.44,3.71,10.95,1,2.95148248,37,2,5.405405405,1.855,10.94999962,99.99999649
+59,non dairy cheese,automated,default,unknown,1.24,,0.2,9.79,1,48.95,3,1,33.33333333,0.2,9.790000128,100.0000013
+60,onion dip,manual,override,green,2.55,1.92,0,0,0,0,57,0,0,0,0,0
+61,organic hummus,manual,override,green,2.55,0.93,0,0,0,0,13,0,0,0,0,0
+62,peri peri dip,automated,default,unknown,1.24,,1.12,0,0,0,1,1,100,1.12,0,0
+63,philadelphia,manual,override,green,2.55,1.64,1.55,0,0,0,105,1,0.952380952,1.55,0,0
+64,philadelphia cream cheese,automated,default,green,1.24,0.88,0.21,12.59,1,59.95238095,143,1,0.699300699,0.21,0,0
+65,plain cream cheese,manual,override,green,2.55,1.39,0,0,0,0,15,0,0,0,0,0
+66,plant based,manual,override,yellow,2.55,4.45,17.94,10.95,1,0.610367893,412,9,2.184466019,1.993333333,10.94999962,99.99999649
+67,plant based cheese,automated,default,yellow,1.24,1.98,0.2,37.769997,3,188.849985,4,1,25,0.2,0,0
+68,plant based cream cheese,manual,override,green,2.55,1.71,0,0,0,0,8,0,0,0,0,0
+69,primal kitchen green godess,automated,default,unknown,1.24,,0.21,0,0,0,1,1,100,0.21,0,0
+70,queso,automated,default,yellow,1.24,1.54,0.87,10.95,1,12.5862069,93,1,1.075268817,0.87,0,0
+71,raw dips,automated,default,unknown,1.24,,0.91,0,0,0,1,1,100,0.91,0,0
+72,renees,manual,override,unknown,2.55,,2.02,0,0,0,37,1,2.702702703,2.02,0,0
+73,sabra,manual,override,green,2.55,1.07,0,0,0,0,25,0,0,0,0,0
+74,sabra hummus,manual,override,green,2.55,0.72,0,0,0,0,21,0,0,0,0,0
+75,silk cashew almond,automated,default,unknown,1.24,,0.2,0,0,0,1,1,100,0.2,0,0
+76,sour cream dip,manual,override,unknown,2.55,,0,0,0,0,2,0,0,0,0,0
+77,spinach dip,manual,override,yellow,2.55,2.8,0,0,0,0,321,0,0,0,0,0
+78,strawberry cheese,automated,default,unknown,1.24,,0.2,0,0,0,1,1,100,0.2,0,0
+79,summer fresh dip,manual,override,unknown,2.55,,0,0,0,0,19,0,0,0,0,0
+80,sunflower kitchen,manual,override,unknown,2.55,,0,0,0,0,3,0,0,0,0,0
+81,tofutti,automated,default,unknown,1.24,,0.46,10.95,1,23.80434783,8,1,12.5,0.46,10.94999962,99.99999649
+82,tostitos spinach dip,automated,default,unknown,1.24,,1.31,0,0,0,1,1,100,1.31,0,0
+83,tzatziki,manual,override,green,2.55,0.99,8.55,32.85,3,3.842105263,269,9,3.345724907,0.95,21.89999923,66.66666433
+84,vegan,manual,override,yellow,3.86,4.07,217.56,191.7000003,18,0.88113624,2315,67,2.894168467,3.247164179,143.5849971,74.90088518
+85,vegan cashew,automated,default,unknown,1.24,,0.3,0,0,0,3,1,33.33333333,0.3,0,0
+86,vegan cheese,automated,default,green,1.24,0.95,8.38,53.79,5,6.418854415,314,14,4.458598726,0.598571429,42.83999846,79.64305347
+87,vegan cream cheese,automated,default,green,1.24,0.43,5.62,45.8700007,5,8.161921833,97,8,8.24742268,0.7025,7.990000128,17.41879225
+88,vegan dip,manual,override,green,2.55,2.12,7.61,36.8450001,3.5,4.841655729,51,6,11.76470588,1.268333333,25.8949993,70.2809044
+89,vegan dips,manual,override,unknown,2.55,,0,0,0,0,1,0,0,0,0,0
+90,vegan spread,manual,override,green,2.55,1.85,6.41,20.94,2,3.266770671,36,4,11.11111111,1.6025,9.989999616,47.70773456
+91,veggie dip,manual,override,yellow,2.55,3.69,2.98,10.95,1,3.674496644,235,2,0.85106383,1.49,0,0
+92,western cream cheese,automated,default,unknown,1.24,,1.26,0,0,0,41,1,2.43902439,1.26,0,0
+93,whipped cream cheese,manual,override,green,1.92,0.94,0.58,0,0,0,145,1,0.689655172,0.58,0,0
+94,7 layer dip,automated,default,yellow,1.22,1.53,0.89,0,0,0,23,1,4.347826087,0.89,0,0
+95,aged cheddar,automated,override,yellow,1.22,1.23,1.44,0,0,0,85,1,1.176470588,1.44,0,0
+96,aged cheddar violife,manual,override,unknown,1.22,,0.92,0,0,0,2,1,50,0.92,0,0
+97,almond cheese,automated,default,yellow,1.22,2.08,0.82,0,0,0,4,1,25,0.82,0,0
+98,almond cream cheese,automated,default,unknown,1.22,,1.18,0,0,0,3,1,33.33333333,1.18,0,0
+99,arla,automated,default,unknown,1.22,,1.3,0,0,0,9,1,11.11111111,1.3,0,0
+100,artichoke asiago dip,automated,default,unknown,1.22,,0.3,0,0,0,178,1,0.561797753,0.3,0,0
+101,artichoke dip,automated,default,yellow,1.22,1.7,0.7,0,0,0,363,1,0.275482094,0.7,0,0
+102,asiago,manual,override,green,2.01,1.59,2.01,0,0,0,324,1,0.308641975,2.01,0,0
+103,asiago artichoke dip,automated,default,unknown,1.22,,0.39,0,0,0,194,1,0.515463918,0.39,0,0
+104,asiago cheese,automated,default,yellow,1.22,1.5,1.48,0,0,0,86,1,1.162790698,1.48,0,0
+105,baba ghanoush,automated,default,unknown,1.22,,0.3,0,0,0,14,1,7.142857143,0.3,0,0
+106,baba ghanoush dip,automated,default,yellow,1.22,1.79,1.82,0,0,0,781,3,0.384122919,0.606666667,0,0
+107,babybel,manual,override,yellow,3.26,5.6,2.48,0,0,0,280,1,0.357142857,2.48,0,0
+108,babybel cheese,manual,override,yellow,2.29,2.76,0,0,0,0,87,0,0,0,0,0
+109,balderson,automated,default,unknown,1.22,,1.19,0,0,0,153,1,0.653594771,1.19,0,0
+110,baratta cheese,automated,default,unknown,1.22,,1.46,0,0,0,1,1,100,1.46,0,0
+111,beer cheese,automated,default,yellow,1.22,1.39,1.16,0,0,0,7,1,14.28571429,1.16,0,0
+112,blackberry jam,automated,default,unknown,1.22,,0.2,0,0,0,7,1,14.28571429,0.2,0,0
+113,black diamond cheese,manual,override,unknown,2.94,,1.84,0,0,0,261,1,0.383141762,1.84,0,0
+114,black diamond cheese slices,manual,override,unknown,2.94,,0,0,0,0,63,0,0,0,0,0
+115,blue cheese,manual,override,yellow,2.44,2.87,13.76,0,0,0,1315,6,0.456273764,2.293333333,0,0
+116,blue cheese dip,automated,default,yellow,1.22,2.77,0.76,0,0,0,25,1,4,0.76,0,0
+117,bothwell cheese,manual,override,unknown,2.94,,0,0,0,0,123,0,0,0,0,0
+118,boursin,manual,override,yellow,2.94,8.25,24.49,6.025,0.5,0.246018783,1575,10,0.634920635,2.449,6.024999936,99.99999894
+119,boursin shallot chive cheese,manual,override,unknown,2.94,,0,0,0,0,2,0,0,0,0,0
+120,brar paneer,automated,default,unknown,1.22,,1.19,0,0,0,77,1,1.298701299,1.19,0,0
+121,brick cheese,manual,override,yellow,1.19,4.02,0,0,0,0,71,0,0,0,0,0
+122,brie,manual,override,yellow,1.6,2.45,13.35,23,2,1.722846442,1797,10,0.556483027,1.335,12.04999987,52.39130379
+123,brie cheese,manual,override,yellow,1.33,2.29,4.83,12.05,1,2.494824017,318,5,1.572327044,0.966,12.04999987,99.99999894
+124,bulgarian feta cheese,manual,override,unknown,2.94,,2.28,0,0,0,18,2,11.11111111,1.14,0,0
+125,burrata,manual,override,yellow,0.5,0.8,0,0,0,0,139,0,0,0,0,0
+126,camembert cheese,automated,default,yellow,1.22,1.82,0.3,0,0,0,20,1,5,0.3,0,0
+127,cashew block,automated,default,unknown,1.22,,0.27,0,0,0,2,1,50,0.27,0,0
+128,cashew cheese,manual,override,green,2.94,1.03,57.65,335.62,30,5.821682567,217,66,30.41474654,0.873484848,243.2849956,72.48822942
+129,cashew cheese herb,automated,default,unknown,1.22,,1.2,10.95,1,9.125,0,1,100,1.2,10.94999962,99.99999649
+130,cashew cheesw,automated,default,unknown,1.22,,0.2,10.95,1,54.75,2,1,50,0.2,10.94999962,99.99999649
+131,cashew chesse,automated,default,unknown,1.22,,0.2,12.05,1,60.25,4,1,25,0.2,0,0
+132,cashew dip,automated,default,yellow,1.22,1.65,3.61,9.99,1,2.767313019,121,4,3.305785124,0.9025,0,0
+133,chao,automated,default,green,1.22,0.92,1.17,0,0,0,12,1,8.333333333,1.17,0,0
+134,charcuterie,manual,override,yellow,1.48,1.53,9.48,9.99,1,1.053797468,1555,9,0.578778135,1.053333333,9.989999616,99.99999616
+135,charcuterie cheese,manual,override,yellow,2.64,4.38,4.63,0,0,0,303,3,0.99009901,1.543333333,0,0
+136,cheddar,manual,override,yellow,2.2,3.32,14.97,32.89,3,2.197060788,3482,8,0.229753016,1.87125,21.93999974,66.70720506
+137,cheddar cheese,manual,override,yellow,2.08,3.09,23.98,12.05,1,0.502502085,5395,12,0.222428174,1.998333333,12.04999987,99.99999894
+138,cheddar cheese lactose free,automated,default,unknown,1.22,,0.8,10.95,1,13.6875,7,1,14.28571429,0.8,10.94999962,99.99999649
+139,cheddar jalapeno cream cheese,automated,default,unknown,1.22,,0.98,0,0,0,3,1,33.33333333,0.98,0,0
+140,cheddar spread,automated,override,green,0.83,0.44,0.98,0,0,0,18,1,5.555555556,0.98,0,0
+141,cheese,manual,override,yellow,2.36,3.94,472.24,391.180001,35.3333333,0.828349994,49182,216,0.439185068,2.186296296,303.9499935,77.70080083
+142,cheese board,automated,default,green,1.22,0.83,0.83,0,0,0,44,1,2.272727273,0.83,0,0
+143,cheese bun,automated,default,unknown,1.22,,0.31,0,0,0,5,1,20,0.31,0,0
+144,cheese cracker,automated,override,green,1.03,0.38,2.14,0,0,0,23,1,4.347826087,2.14,0,0
+145,cheese cube,automated,default,yellow,1.22,1.64,1.21,0,0,0,13,1,7.692307692,1.21,0,0
+146,cheese curds,automated,default,yellow,1.22,1.75,0.49,0,0,0,329,1,0.303951368,0.49,0,0
+147,cheese dip,automated,default,yellow,1.22,2.12,2.49,0,0,0,496,2,0.403225806,1.245,0,0
+148,cheese kids,automated,default,unknown,1.22,,1.22,0,0,0,8,1,12.5,1.22,0,0
+149,cheese pack,automated,default,yellow,1.22,1.77,1.19,0,0,0,21,1,4.761904762,1.19,0,0
+150,cheese queso,automated,default,yellow,1.22,1.87,1.19,0,0,0,1,1,100,1.19,0,0
+151,cheeses,manual,override,yellow,1.78,2.8,0,0,0,0,67,0,0,0,0,0
+152,cheese sauce,automated,default,yellow,1.22,7.72,1.27,0,0,0,249,1,0.401606426,1.27,0,0
+153,cheese shredded,manual,override,yellow,1.32,1.77,1.22,10.95,1,8.975409836,444,1,0.225225225,1.22,10.94999962,99.99999649
+154,cheese sliced,automated,default,yellow,1.22,1.97,1.96,0,0,0,41,1,2.43902439,1.96,0,0
+155,cheese slices,manual,override,yellow,1.89,2.1,20.24,14.5999999,1.33333334,0.721343869,4233,12,0.283486889,1.686666667,14.59999949,99.99999718
+156,cheese spread,automated,default,yellow,1.22,2.17,1.01,0,0,0,240,1,0.416666667,1.01,0,0
+157,cheese spreader,automated,default,unknown,1.22,,1.14,10.95,1,9.605263158,2,1,50,1.14,10.94999962,99.99999649
+158,cheese stick,automated,default,yellow,1.22,1.41,1.19,0,0,0,156,1,0.641025641,1.19,0,0
+159,cheese sticks,manual,override,yellow,1.34,3.47,2.94,0,0,0,695,3,0.431654676,0.98,0,0
+160,cheese strings,automated,default,yellow,1.22,2.46,3.94,12.05,1,3.058375635,956,3,0.313807531,1.313333333,12.04999987,99.99999894
+161,cheese strings armstrong,automated,default,unknown,1.22,,1.19,0,0,0,2,1,50,1.19,0,0
+162,cheese strings lactose free,automated,default,unknown,1.22,,1.22,10.95,1,8.975409836,9,1,11.11111111,1.22,10.94999962,99.99999649
+163,cheese string white,automated,default,unknown,1.22,,1.21,0,0,0,1,1,100,1.21,0,0
+164,cheese tex mex,automated,default,unknown,1.22,,1.17,0,0,0,15,1,6.666666667,1.17,0,0
+165,cheese tray,automated,default,yellow,1.22,2.83,1.18,0,0,0,39,1,2.564102564,1.18,0,0
+166,cheese whiz,automated,override,yellow,0.63,0.92,3.67,0,0,0,1223,8,0.654129191,0.45875,0,0
+167,cheeze,manual,override,green,2.94,0.68,0,0,0,0,12,0,0,0,0,0
+168,cheeze whiz,automated,default,yellow,1.22,1.46,1.18,0,0,0,55,1,1.818181818,1.18,0,0
+169,chicken spread,automated,default,green,1.22,0.91,1.08,0,0,0,6,1,16.66666667,1.08,0,0
+170,chip dip,automated,override,yellow,1.04,2.26,11.3,21.9,2,1.938053097,4529,15,0.33119894,0.753333333,21.89999923,99.99999649
+171,chutney,automated,default,green,1.22,1.16,1.54,0,0,0,285,2,0.701754386,0.77,0,0
+172,cool whip,manual,override,unknown,2.94,,0.2,0,0,0,155,1,0.64516129,0.2,0,0
+173,cotija,automated,default,unknown,1.22,,0.2,0,0,0,12,1,8.333333333,0.2,0,0
+174,cotija cheese,automated,override,yellow,0.83,1.95,1.86,0,0,0,60,1,1.666666667,1.86,0,0
+175,cottage cheese,manual,override,green,2.94,1.38,156.02,101.93,9,0.653313678,9110,76,0.834248079,2.052894737,90.97999872,89.25733221
+176,cottage cheese fat free,automated,default,green,1.22,0.94,0.25,0,0,0,43,1,2.325581395,0.25,0,0
+177,cottage cheese lactose free,automated,default,green,1.22,0.9,0.55,12.05,1,21.90909091,10,1,10,0.55,12.04999987,99.99999894
+178,cottage cheese low fat,automated,default,green,1.22,1.19,1.37,0,0,0,116,1,0.862068966,1.37,0,0
+179,cottage cheese low salt,automated,default,unknown,1.22,,1.2,0,0,0,2,1,50,1.2,0,0
+180,cracker barrel,manual,override,green,2.94,1.17,2.78,0,0,0,210,1,0.476190476,2.78,0,0
+181,cream,manual,override,unknown,1.86,,4.75,0,0,0,1103,2,0.181323663,2.375,0,0
+182,cream cheese,manual,override,green,1.16,0.8,128.83,372.409998,33.6666668,2.89070867,37196,189,0.508119153,0.681640212,306.5099919,82.30444767
+183,cream cheese dip,automated,default,yellow,1.22,1.5,1.17,0,0,0,35,1,2.857142857,1.17,0,0
+184,cream cheese light,automated,default,unknown,1.22,,1.38,0,0,0,29,1,3.448275862,1.38,0,0
+185,cubed cheese,automated,default,green,1.22,1.11,1.2,0,0,0,8,1,12.5,1.2,0,0
+186,curd,automated,default,yellow,1.22,1.27,1.19,0,0,0,181,1,0.552486188,1.19,0,0
+187,dairy free,manual,override,green,2.5,1.56,67.21,76.24,7,1.134355007,1932,44,2.277432712,1.5275,65.28999782,85.6374578
+188,dairy free cheese,manual,override,unknown,2.94,,0,0,0,0,4,0,0,0,0,0
+189,dairy free cream cheese,automated,default,unknown,1.22,,1.31,0,0,0,31,1,3.225806452,1.31,0,0
+190,dairy free feta,manual,override,unknown,2.94,,1.04,15.465,1.5,14.87019231,15,3,20,0.346666667,15.46499942,99.99999628
+191,daiya,manual,override,green,2.94,1.1,37.99,147.19,13,3.874440642,1030,18,1.747572816,2.110555556,77.00999885,52.32012966
+192,daiya block,automated,default,unknown,1.22,,0.2,0,0,0,5,1,20,0.2,0,0
+193,daiya cheese,manual,override,green,2.94,2.19,15.51,5.475,0.5,0.352998066,333,7,2.102102102,2.215714286,5.474999808,99.99999649
+194,daiya cheese slices,manual,override,green,2.94,1.05,2.12,10.95,1,5.16509434,19,1,5.263157895,2.12,0,0
+195,deli,automated,default,yellow,1.22,1.99,15.63,10.95,1,0.700575816,3085,15,0.486223663,1.042,10.94999962,99.99999649
+196,dill,automated,default,unknown,1.22,,1.11,0,0,0,40,1,2.5,1.11,0,0
+197,dill pickle dip,automated,default,unknown,1.22,,4.75,0,0,0,199,5,2.512562814,0.95,0,0
+198,dip,automated,override,yellow,1.78,2.89,61.53,80.245,7.5,1.304160572,6820,43,0.630498534,1.430930233,80.24499763,99.99999705
+199,dips,automated,override,yellow,1.15,3.01,9.55,23,2,2.408376963,1524,10,0.656167979,0.955,22.99999949,99.99999777
+200,dips spreads,automated,default,yellow,1.22,3.18,5.71,32.89,3,5.760070053,641,6,0.936037441,0.951666667,32.88999936,99.99999805
+201,dips vegetarian,automated,default,unknown,1.22,,0.2,0,0,0,1,1,100,0.2,0,0
+202,earth island cheese,automated,default,unknown,1.22,,1.07,0,0,0,16,1,6.25,1.07,0,0
+203,family size,automated,default,unknown,1.22,,1.3,0,0,0,5,1,20,1.3,0,0
+204,fancy cheese,manual,override,yellow,1.48,1.91,1.6,10.95,1,6.84375,42,2,4.761904762,0.8,10.94999962,99.99999649
+205,fat free,automated,default,yellow,1.22,2.31,1.18,0,0,0,60,1,1.666666667,1.18,0,0
+206,fat free cheese,automated,default,yellow,1.22,1.8,1.64,0,0,0,48,1,2.083333333,1.64,0,0
+207,fat free cottage cheese,automated,default,yellow,1.22,1.25,1.15,0,0,0,27,1,3.703703704,1.15,0,0
+208,fermented,manual,override,green,2.94,2.3,4.45,0,0,0,111,4,3.603603604,1.1125,0,0
+209,feta,manual,override,green,2.94,1.44,209.4,387.121667,34.8333333,1.848718563,9198,104,1.130680583,2.013461538,336.5549932,86.93778257
+210,feta block,automated,default,unknown,1.22,,0.62,9.99,1,16.11290323,18,3,16.66666667,0.206666667,9.989999616,99.99999616
+211,feta cheese,manual,override,green,2.94,1.5,2.52,10.95,1,4.345238095,243,1,0.411522634,2.52,10.94999962,99.99999649
+212,feta cheese brick,manual,override,unknown,2.94,,0,0,0,0,5,0,0,0,0,0
+213,feta cheese crumble,automated,default,yellow,1.22,2,1.14,0,0,0,69,1,1.449275362,1.14,0,0
+214,feta cheese cubes,automated,default,unknown,1.22,,2.54,0,0,0,70,2,2.857142857,1.27,0,0
+215,feta crumbles,automated,default,yellow,1.22,1.68,0.48,0,0,0,77,1,1.298701299,0.48,0,0
+216,feta goat cheese,automated,default,unknown,1.22,,1.4,0,0,0,7,1,14.28571429,1.4,0,0
+217,fig jam,automated,default,green,1.22,0.44,0.52,0,0,0,40,1,2.5,0.52,0,0
+218,foremost,automated,default,unknown,1.22,,0.94,0,0,0,8,1,12.5,0.94,0,0
+219,french onion dip,automated,default,yellow,1.22,2.39,2.09,12.05,1,5.765550239,174,2,1.149425287,1.045,12.04999987,99.99999894
+220,fresh cheese,automated,default,yellow,1.22,1.66,1.43,0,0,0,23,1,4.347826087,1.43,0,0
+221,fresh mozarella cheese,automated,default,unknown,1.22,,1.48,0,0,0,14,1,7.142857143,1.48,0,0
+222,fresh salsa,automated,default,unknown,1.22,,1.32,0,0,0,20,1,5,1.32,0,0
+223,fruit dip,automated,default,yellow,1.22,1.25,1.06,10.95,1,10.33018868,113,1,0.884955752,1.06,10.94999962,99.99999649
+224,garlic butter spread,automated,default,green,1.22,0.32,4.67,0,0,0,92,4,4.347826087,1.1675,0,0
+225,garlic spread,automated,default,yellow,1.22,1.31,2.37,0,0,0,397,3,0.755667506,0.79,0,0
+226,ghee,automated,default,unknown,1.22,,0.97,0,0,0,78,1,1.282051282,0.97,0,0
+227,gluten free vegan,automated,default,unknown,1.22,,0.78,0,0,0,2,1,50,0.78,0,0
+228,goat cheese,automated,override,yellow,1.74,2.4,19.48,0,0,0,2132,13,0.609756098,1.498461538,0,0
+229,goat cheese crumbles,automated,default,yellow,1.22,2.37,0.71,12.05,1,16.97183099,35,1,2.857142857,0.71,0,0
+230,goat cheese feta,automated,default,unknown,1.22,,0.7,0,0,0,9,1,11.11111111,0.7,0,0
+231,goats cheese,automated,default,yellow,1.22,1.91,1.21,10.95,1,9.049586777,36,1,2.777777778,1.21,10.94999962,99.99999649
+232,gouda slices,automated,default,yellow,1.22,1.32,1.14,0,0,0,1,1,100,1.14,0,0
+233,gourmet cheese,manual,override,yellow,1.48,3.95,0,0,0,0,23,0,0,0,0,0
+234,grated cheese,automated,default,yellow,1.22,1.67,1.81,0,0,0,161,1,0.621118012,1.81,0,0
+235,grated parmesan cheese,automated,default,yellow,1.22,1.8,1.21,0,0,0,83,1,1.204819277,1.21,0,0
+236,greek feta cheese,automated,default,unknown,1.22,,0.2,0,0,0,4,1,25,0.2,0,0
+237,gruyere,automated,default,yellow,1.22,2.17,0.37,0,0,0,100,1,1,0.37,0,0
+238,gruyere cheese,automated,default,yellow,1.22,2.11,1.37,0,0,0,186,1,0.537634409,1.37,0,0
+239,guacamole,automated,default,green,1.22,1.07,2.4,0,0,0,620,3,0.483870968,0.8,0,0
+240,halloumi,automated,default,yellow,1.22,1.93,1.2,0,0,0,104,1,0.961538462,1.2,0,0
+241,halloumi cheese,automated,default,yellow,1.22,2.54,1.27,0,0,0,193,1,0.518134715,1.27,0,0
+242,hard cheese,automated,default,yellow,1.22,2.09,1.21,10.99,1,9.082644628,36,1,2.777777778,1.21,10.99000013,100.0000012
+243,havarti,automated,default,yellow,1.22,2.16,1.44,0,0,0,260,1,0.384615385,1.44,0,0
+244,havarti cheese,manual,override,yellow,1.99,2.47,6.35,0,0,0,1139,3,0.263388938,2.116666667,0,0
+245,healthy,automated,default,unknown,1.22,,1.22,0,0,0,6,1,16.66666667,1.22,0,0
+246,heluva good dip,automated,default,yellow,1.22,1.79,0.3,0,0,0,239,1,0.418410042,0.3,0,0
+247,hot spinach artichoke dip,automated,default,unknown,1.22,,0.77,0,0,0,1,1,100,0.77,0,0
+248,hummus,automated,override,unknown,0.86,,12.05,21.9,2,1.817427386,2058,13,0.631681244,0.926923077,21.89999923,99.99999649
+249,hummus dip,automated,override,yellow,0.64,0.9,1.44,21.9,2,15.20833333,415,4,0.963855422,0.36,10.94999962,49.99999825
+250,hummus sabra,automated,default,yellow,1.22,2.6,1.34,21.9,2,16.34328358,174,2,1.149425287,0.67,10.94999962,49.99999825
+251,humus classic,automated,override,green,0.75,0.61,1.34,0,0,0,94,1,1.063829787,1.34,0,0
+252,indian cheese,automated,default,unknown,1.22,,1.18,0,0,0,1,1,100,1.18,0,0
+253,indian cheeze,automated,default,unknown,1.22,,0.21,0,0,0,1,1,100,0.21,0,0
+254,jalapeno dip,automated,default,yellow,1.22,2.3,1.47,0,0,0,75,1,1.333333333,1.47,0,0
+255,jarlsberg cheese,automated,default,yellow,1.22,2.25,1.16,0,0,0,29,1,3.448275862,1.16,0,0
+256,kefir,automated,default,unknown,1.22,,1.08,0,0,0,34,1,2.941176471,1.08,0,0
+257,kiri cheese,automated,default,unknown,1.22,,1.17,0,0,0,17,1,5.882352941,1.17,0,0
+258,korean inspired,automated,default,unknown,1.22,,0.2,0,0,0,1,1,100,0.2,0,0
+259,kraft deluxe cheese slices,automated,default,unknown,1.22,,1.21,0,0,0,2,1,50,1.21,0,0
+260,kraft dips,automated,default,unknown,1.22,,0.99,12.05,1,12.17171717,2,1,50,0.99,12.04999987,99.99999894
+261,kraft singles,automated,default,yellow,1.22,1.46,1.22,0,0,0,147,1,0.680272109,1.22,0,0
+262,lactose free cheese,automated,override,yellow,1.29,1.97,11.62,55.99,5,4.818416523,827,11,1.330108827,1.056363636,45.03999898,80.44293441
+263,lactose free cottage cheese,automated,default,yellow,1.22,1.67,0.44,0,0,0,24,1,4.166666667,0.44,0,0
+264,laughing cow,manual,override,yellow,2.94,7.82,12.12,10.99,1,0.906765677,889,6,0.674915636,2.02,10.99000013,100.0000012
+265,laughing cow cheese dippers,automated,default,yellow,1.22,1.73,1,0,0,0,15,1,6.666666667,1,0,0
+266,layer dip,automated,default,yellow,1.22,1.87,0.82,0,0,0,86,1,1.162790698,0.82,0,0
+267,light cheese,automated,default,yellow,1.22,2.94,1.08,0,0,0,102,1,0.980392157,1.08,0,0
+268,light medium cheese,automated,default,unknown,1.22,,1.12,0,0,0,1,1,100,1.12,0,0
+269,low calorie shredded cheese,automated,default,unknown,1.22,,1.12,10.95,1,9.776785714,1,1,100,1.12,10.94999962,99.99999649
+270,low carb cheese,automated,default,yellow,1.22,1.72,1.79,0,0,0,4,1,25,1.79,0,0
+271,low fat,automated,default,yellow,1.22,1.53,1.16,0,0,0,45,1,2.222222222,1.16,0,0
+272,low fat cheese,automated,default,yellow,1.22,2.99,1.21,0,0,0,124,1,0.806451613,1.21,0,0
+273,low fat cream cheese,automated,default,unknown,1.22,,1.23,0,0,0,11,1,9.090909091,1.23,0,0
+274,low fat dips,automated,default,unknown,1.22,,0.2,0,0,0,1,1,100,0.2,0,0
+275,low fat paneer,automated,default,unknown,1.22,,2,0,0,0,2,2,100,1,0,0
+276,low fat smooth cottage cheese,automated,default,unknown,1.22,,1.19,0,0,0,1,1,100,1.19,0,0
+277,low salt cheese,automated,default,yellow,1.22,2.32,1.22,0,0,0,1,1,100,1.22,0,0
+278,marble cheese,automated,default,yellow,1.22,1.89,0.82,0,0,0,421,1,0.237529691,0.82,0,0
+279,marble cheese 200,automated,default,unknown,1.22,,1.22,0,0,0,1,1,100,1.22,0,0
+280,mclaren cheese,automated,default,unknown,1.22,,1.22,0,0,0,11,1,9.090909091,1.22,0,0
+281,meat spread,automated,default,unknown,1.22,,0.2,0,0,0,14,1,7.142857143,0.2,0,0
+282,medium cheddar,automated,default,yellow,1.22,1.86,1.17,0,0,0,25,1,4,1.17,0,0
+283,mexican,automated,default,yellow,1.22,1.64,1.63,10.95,1,6.717791411,300,2,0.666666667,0.815,10.94999962,99.99999649
+284,mini cheese,automated,default,yellow,1.22,5.55,0.83,0,0,0,39,1,2.564102564,0.83,0,0
+285,miyokos,manual,override,unknown,2.94,,8.71,10.95,1,1.25717566,47,5,10.63829787,1.742,10.94999962,99.99999649
+286,mozarella cheeze,automated,default,unknown,1.22,,0.5,0,0,0,163,2,1.226993865,0.25,0,0
+287,mozzarella,manual,override,green,2.94,2.2,32.76,31.89,3,0.973443223,3724,15,0.402792696,2.184,20.93999923,65.6632149
+288,mozzarella cheese,manual,override,green,2.94,2.17,84.4,24.1,2,0.285545024,8794,33,0.375255856,2.557575758,12.04999987,49.99999947
+289,mozzarella cheese brick,automated,default,unknown,1.22,,1.21,0,0,0,5,1,20,1.21,0,0
+290,mozzarella string cheese,automated,default,yellow,1.22,1.85,1.17,0,0,0,4,1,25,1.17,0,0
+291,mr clean meadow,automated,default,unknown,1.22,,1.12,0,0,0,1,1,100,1.12,0,0
+292,munster cheese deli,automated,default,unknown,1.22,,1.16,0,0,0,1,1,100,1.16,0,0
+293,nacho cheese dip,automated,default,yellow,1.22,1.84,2.27,0,0,0,472,1,0.211864407,2.27,0,0
+294,nacho dip,automated,default,yellow,1.22,2.3,0.8,0,0,0,343,1,0.29154519,0.8,0,0
+295,nanak paneer,manual,override,green,2.94,0.49,2.03,0,0,0,21,1,4.761904762,2.03,0,0
+296,natural,automated,default,unknown,1.22,,1.09,0,0,0,1,1,100,1.09,0,0
+297,non dairy,automated,default,unknown,1.22,,2.32,10.95,1,4.719827586,15,2,13.33333333,1.16,10.94999962,99.99999649
+298,non dairy cheese,manual,override,green,2.94,1.63,4.65,16.465,1.5,3.540860215,45,3,6.666666667,1.55,16.46499994,99.99999961
+299,non dairy cheese slices,automated,default,unknown,1.22,,2.34,0,0,0,3,2,66.66666667,1.17,0,0
+300,nordica cottage cheese,automated,default,unknown,1.22,,1.6,0,0,0,7,1,14.28571429,1.6,0,0
+301,nut cheeze,automated,default,unknown,1.22,,0.2,0,0,0,0,1,100,0.2,0,0
+302,nuts cheese,automated,default,unknown,1.22,,1.2,0,0,0,5,1,20,1.2,0,0
+303,old dutch,automated,default,unknown,1.22,,0.76,5.475,0.5,7.203947368,5,1,20,0.76,0,0
+304,olives dips spreads,automated,default,unknown,1.22,,5.34,18.25,1.6666666,3.417602996,365,6,1.643835616,0.89,10.94999962,59.9999979
+305,onion dip,automated,default,yellow,1.22,2.7,1.87,0,0,0,491,3,0.610997963,0.623333333,0,0
+306,organic cheese,automated,override,yellow,1.36,1.97,7.19,23,2,3.198887344,227,4,1.762114537,1.7975,12.04999987,52.39130379
+307,organic full fat cottage cheese,automated,default,unknown,1.22,,1.19,0,0,0,1,1,100,1.19,0,0
+308,organic jam,automated,default,green,1.22,0.91,1.38,0,0,0,20,1,5,1.38,0,0
+309,other dips spreads,automated,default,unknown,1.22,,0.88,5.475,0.5,6.221590909,71,1,1.408450704,0.88,5.474999808,99.99999649
+310,paneer,manual,override,yellow,1,1.51,34.04,9.99,1,0.293478261,3791,36,0.949617515,0.945555556,9.989999616,99.99999616
+311,paneer cubes,automated,default,unknown,1.22,,1.19,0,0,0,87,1,1.149425287,1.19,0,0
+312,parkay,automated,default,unknown,1.22,,1.22,0,0,0,2,1,50,1.22,0,0
+313,parmesan,manual,override,yellow,1.49,3.59,13.02,10.95,1,0.841013825,2289,10,0.436871997,1.302,10.94999962,99.99999649
+314,parmesan cheese,manual,override,yellow,2.02,2.69,45.62,32.85,3,0.720078913,8750,22,0.251428571,2.073636364,21.89999923,66.66666433
+315,parmesan cheese grated,automated,default,yellow,1.22,1.93,0.86,0,0,0,194,1,0.515463918,0.86,0,0
+316,pc cheddar,automated,default,unknown,1.22,,1.33,0,0,0,5,1,20,1.33,0,0
+317,philadelphia,automated,override,green,0.5,0.49,1.82,0,0,0,1065,3,0.281690141,0.606666667,0,0
+318,philadelphia dip,automated,default,unknown,1.22,,4.04,0,0,0,156,4,2.564102564,1.01,0,0
+319,plain cheese cake,automated,default,unknown,1.22,,1.25,0,0,0,1,1,100,1.25,0,0
+320,plant based,automated,default,unknown,1.22,,6.78,12.05,1,1.777286136,179,6,3.351955307,1.13,12.04999987,99.99999894
+321,plant based cheese,manual,override,green,2.94,1.79,4.59,21.9,2,4.77124183,111,2,1.801801802,2.295,21.89999923,99.99999649
+322,plant based cream cheese,automated,default,unknown,1.22,,1.18,0,0,0,3,1,33.33333333,1.18,0,0
+323,plant based dips,automated,default,unknown,1.22,,0.68,0,0,0,6,1,16.66666667,0.68,0,0
+324,prepared food,automated,default,unknown,1.22,,1.09,0,0,0,7,1,14.28571429,1.09,0,0
+325,president cheese,automated,default,unknown,1.22,,1.01,0,0,0,4,1,25,1.01,0,0
+326,primal kitchen,automated,default,green,1.22,0.77,0.51,0,0,0,7,1,14.28571429,0.51,0,0
+327,provolone cheese deli,automated,default,yellow,1.22,1.48,1.44,0,0,0,3,1,33.33333333,1.44,0,0
+328,queso,automated,default,yellow,1.22,2.08,1.26,0,0,0,1108,2,0.180505415,0.63,0,0
+329,queso dip,automated,default,green,1.22,1.03,1.11,10.95,1,9.864864865,326,1,0.306748466,1.11,10.94999962,99.99999649
+330,ranch dip,automated,default,yellow,1.22,5.45,1.36,0,0,0,675,2,0.296296296,0.68,0,0
+331,ricotta,automated,default,yellow,1.22,1.55,1.36,0,0,0,123,1,0.81300813,1.36,0,0
+332,ricotta cheese,automated,default,green,1.22,1.08,3.28,10.95,1,3.338414634,283,4,1.413427562,0.82,0,0
+333,ricotta cheese organic,automated,default,unknown,1.22,,0.98,0,0,0,3,1,33.33333333,0.98,0,0
+334,roasted red pepper dip,automated,default,unknown,1.22,,0.7,0,0,0,22,1,4.545454545,0.7,0,0
+335,sabra,automated,default,yellow,1.22,1.56,0.44,0,0,0,103,1,0.970873786,0.44,0,0
+336,sabra hummus,automated,default,unknown,1.22,,0.46,0,0,0,72,2,2.777777778,0.23,0,0
+337,sabra hummus garlic,automated,default,unknown,1.22,,2.31,0,0,0,2,2,100,1.155,0,0
+338,salad cheese,automated,default,yellow,1.22,2.19,1.31,3.6499999,0.33333334,2.786259466,11,1,9.090909091,1.31,3.649999872,99.99999923
+339,salsa,automated,default,yellow,1.22,2.01,4.93,0,0,0,1046,5,0.478011472,0.986,0,0
+340,salsa dip,automated,default,yellow,1.22,2.09,1.37,10.95,1,7.99270073,200,1,0.5,1.37,10.94999962,99.99999649
+341,sandwich spread,automated,default,green,1.22,1.05,1.27,0,0,0,203,2,0.985221675,0.635,0,0
+342,sharp cheese,automated,default,yellow,1.22,2.9,1.15,0,0,0,8,1,12.5,1.15,0,0
+343,shredded cheddar,automated,default,yellow,1.22,1.68,2.14,0,0,0,85,1,1.176470588,2.14,0,0
+344,shredded cheese,manual,override,green,2.51,2.05,66.53,39.015,3.5,0.586427176,12203,29,0.23764648,2.294137931,20.93999923,53.67166278
+345,shredded cheese swiss,automated,default,yellow,1.22,2.41,1.21,0,0,0,0,1,100,1.21,0,0
+346,sliced cheese,manual,override,green,2.94,2.27,19.7,10.99,1,0.55786802,2882,8,0.27758501,2.4625,10.99000013,100.0000012
+347,smoked,manual,override,unknown,2.94,,0,0,0,0,11,0,0,0,0,0
+348,smoked cheese,automated,default,yellow,1.22,3.03,0.99,0,0,0,54,1,1.851851852,0.99,0,0
+349,smokey cheese,manual,override,unknown,2.94,,0,0,0,0,3,0,0,0,0,0
+350,soft cheese,automated,default,yellow,1.22,4.39,2.36,5.475,0.5,2.319915254,54,2,3.703703704,1.18,0,0
+351,speciality cheese,automated,default,yellow,1.22,2.53,1.43,0,0,0,5,1,20,1.43,0,0
+352,spinach cheese,automated,default,yellow,1.22,1.33,1.1,0,0,0,7,1,14.28571429,1.1,0,0
+353,spinach dip,automated,default,yellow,1.22,2.57,8.81,14.985,1.5,1.700908059,1583,13,0.821225521,0.677692308,0,0
+354,spreadable cheese,automated,default,yellow,1.22,5.4,1.22,0,0,0,100,1,1,1.22,0,0
+355,spreadem,manual,override,unknown,2.94,,0,0,0,0,2,0,0,0,0,0
+356,swiss,automated,default,yellow,1.22,2.05,1.24,0,0,0,64,1,1.5625,1.24,0,0
+357,swiss cheese,manual,override,green,2.94,2.5,14.76,10.95,1,0.741869919,2444,6,0.245499182,2.46,10.94999962,99.99999649
+358,tapenade,automated,default,green,1.22,0.94,1.54,0,0,0,20,2,10,0.77,0,0
+359,tofu cream cheese,automated,default,unknown,1.22,,1.46,0,0,0,2,1,50,1.46,0,0
+360,turtles,automated,default,yellow,1.22,3.49,1.16,12.05,1,10.38793103,13,1,7.692307692,1.16,12.04999987,99.99999894
+361,tzatziki,automated,default,green,1.22,0.91,1.86,0,0,0,229,2,0.873362445,0.93,0,0
+362,tzatziki dip,automated,default,yellow,1.22,1.7,2.2,0,0,0,605,2,0.330578512,1.1,0,0
+363,vegan,manual,override,yellow,2.94,5.12,2.17,0,0,0,95,1,1.052631579,2.17,0,0
+364,vegan cheese,manual,override,green,2.94,1.1,2.44,10.490001,1,4.299180738,40,3,7.5,0.813333333,10.49000038,99.99999413
+365,vegan cheese cream,automated,default,unknown,1.22,,0.62,10.95,1,17.66129032,3,1,33.33333333,0.62,10.94999962,99.99999649
+366,vegan cheese curds,automated,default,unknown,1.22,,0.56,0,0,0,2,1,50,0.56,0,0
+367,vegan cream cheese,automated,default,green,1.22,0.25,4.11,0,0,0,65,5,7.692307692,0.822,0,0
+368,vegan cream chesse,automated,default,unknown,1.22,,3.67,9.99,1,2.722070845,56,3,5.357142857,1.223333333,9.989999616,99.99999616
+369,vegan dip,automated,default,yellow,1.22,1.56,7.73,41.974999,3.8333334,5.430142173,147,8,5.442176871,0.96625,10.94999962,26.08695623
+370,vegan dips,automated,default,yellow,1.22,1.24,1.57,0,0,0,6,2,33.33333333,0.785,0,0
+371,vegan feta,manual,override,unknown,0.42,,8.34,138.055,12.5,16.55335731,57,16,28.07017544,0.52125,99.68999834,72.21034974
+372,vegan feta cheese,manual,override,unknown,2.94,,9.25,54.89,5,5.934054054,25,7,28,1.321428571,31.88999885,58.09801211
+373,vegan mozzarella,automated,default,unknown,1.22,,1.03,0,0,0,2,1,50,1.03,0,0
+374,vegan parmesan cheese,automated,default,yellow,1.22,1.74,2.13,0,0,0,64,2,3.125,1.065,0,0
+375,vegan spread,automated,default,green,1.22,0.81,2.68,0,0,0,27,2,7.407407407,1.34,0,0
+376,veggie cheese,automated,default,green,1.22,1.21,1.14,10.95,1,9.605263158,4,1,25,1.14,10.94999962,99.99999649
+377,veggie dip,automated,default,yellow,1.22,6.29,5.26,12.05,1,2.290874525,397,5,1.259445844,1.052,12.04999987,99.99999894
+378,very good cheese,manual,override,unknown,2.94,,0,0,0,0,2,0,0,0,0,0
+379,violife,manual,override,yellow,2.94,3.4,7.45,0,0,0,190,3,1.578947368,2.483333333,0,0
+380,violife feta,manual,override,green,2.94,1.15,10,14.0066664,1.33333334,1.40066664,43,5,11.62790698,2,9.989999616,71.32317805
+381,violife parmesan,manual,override,green,2.94,1.91,0,0,0,0,6,0,0,0,0,0
+382,western cream cheese,automated,default,unknown,1.22,,2.41,0,0,0,164,3,1.829268293,0.803333333,0,0
+383,white cheese,automated,default,yellow,1.22,2.1,1.19,0,0,0,42,1,2.380952381,1.19,0,0
+384,wholly,automated,default,green,1.22,1.08,0.33,0,0,0,76,1,1.315789474,0.33,0,0
+385,wine cheese,automated,override,yellow,2,6.24,2.03,10.99,1,5.413793103,21,1,4.761904762,2.03,10.99000013,100.0000012
+386,yogurt greek,automated,default,unknown,1.22,,0.69,0,0,0,53,1,1.886792453,0.69,0,0
+387,yoso cashew cheese,automated,default,unknown,1.22,,1.35,0,0,0,2,1,50,1.35,0,0
+388,yves,automated,default,unknown,1.22,,2.33,10.95,1,4.699570815,56,2,3.571428571,1.165,10.94999962,99.99999649

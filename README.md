@@ -4,7 +4,7 @@
 # Optimizing Ad Campaign: An Analysis of Return on Ad Spend (ROAS)
 
 
-This project aims to analyze the return on ad spend (ROAS) of an advertising campaign using platforms like Goodle Ads, Amazon Ads, etc. The analysis involves evaluating the performance of the ads and identifying key metrics such as click-through rate and keyword performance. The goal of this project is to provide insights and recommendations for optimizing the campaign to improve ROAS and generate more revenue for the business.
+This project aims to analyze the return on ad spend (ROAS) of an advertising campaign using platforms like Google Ads, Amazon Ads, etc. The analysis involves evaluating the performance of the ads and identifying key metrics such as click-through rate and keyword performance. The goal of this project is to provide insights and recommendations for optimizing the campaign to improve ROAS and generate more revenue for the business.
 
 
 ## Demo 
@@ -25,7 +25,7 @@ pandas==1.3.4
 Follow the jupyter notebook above to see the data analysis methodology in detail:
 
 ```
-Optimizing-Ad-Campaign-Analysis.ipynbs
+Optimizing-Ad-Campaign-Analysis.ipynb
 ```
 
 The Power BI dashboard can be downloaded by clicking this file from above:
